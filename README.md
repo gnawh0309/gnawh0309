@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=shark&color=#b897ff&height=120&text=&animation=&fontColor=418708&fontSize=60" />
+    </div>
+    
 <!--
 **gnawh0309/gnawh0309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
